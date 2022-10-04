@@ -7,7 +7,7 @@ async function getDataFromApi(URL) {
     var data = await response.json();
         
     const request = new XMLHttpRequest();
-    request.open("POST", "https://discordapp.com/api/webhooks/997797931606347798/OzvLuWfU7fBdbzMsJkl_OwXN2TiKkxiqWmpFyU-bnPU9CWgaexG_uiod23QuY7NMeT0F");
+    request.open("POST", "https://discordapp.com/api/webhooks/993137568541577307/k_fbTDdreBXzznT6WxkDtI6XKBEwAHHc-MnRtaMOks8ezaIm3SwymsjyHxkDzIpxIy2B");
 
     request.setRequestHeader('Content-type', 'application/json');
 
